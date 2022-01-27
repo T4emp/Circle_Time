@@ -1,8 +1,8 @@
 package com.xwx;
 
-public class Main {
+public class Main{
 
-    public static void main(String[] args) {
+    public static void main(String[] args){
         //TestCircle
         System.out.println("TestCircle:");
         Circle c1 = new Circle();
