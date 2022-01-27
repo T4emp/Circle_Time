@@ -27,7 +27,7 @@ public class Main {
 
         t1.setHour(4);
         t1.setMinute(5);
-        t1.setSecond(66);
+        t1.setSecond(6);
         System.out.println(t1);
         System.out.println("Час: " + t1.getHour());
         System.out.println("Минута: " + t1.getMinute());
